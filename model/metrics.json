@@ -1,0 +1,23 @@
+{
+  "model_name": "Random Forest",
+  "r2_score": 0.9518,
+  "rmse": 3.6402,
+  "features": [
+    "hour",
+    "crime_rate",
+    "lighting_score",
+    "crowd_score",
+    "hospital_nearby",
+    "police_nearby",
+    "open_shops"
+  ],
+  "feature_importance": {
+    "hour": 0.0018355941982328807,
+    "crime_rate": 0.4214949987739774,
+    "lighting_score": 0.4853111508457997,
+    "crowd_score": 0.08681983665123433,
+    "hospital_nearby": 0.0008449547241895092,
+    "police_nearby": 0.002706982819798776,
+    "open_shops": 0.0009864819867675052
+  }
+}

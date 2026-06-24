@@ -1,0 +1,14 @@
+streamlit
+folium
+streamlit-folium
+osmnx
+networkx
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+requests
+python-dotenv
+joblib
